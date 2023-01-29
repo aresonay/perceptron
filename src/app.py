@@ -41,9 +41,8 @@ st.markdown(style, unsafe_allow_html=True)
 
 st.title("Simulador de neurona")
 
-image = Image.open('neurona_fp_1000.jpg')
 
-st.image(image, caption='Ilustración de una Neurona')
+st.image("https://www.shutterstock.com/image-vector/stem-cell-diagram-on-white-260nw-440831137.jpg")
 
 
 st.write("Elige el número de entradas/pesos que tendrá la neurona")
