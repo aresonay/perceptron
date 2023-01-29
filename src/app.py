@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 from perceptron import Neuron
 import numpy as np
 
